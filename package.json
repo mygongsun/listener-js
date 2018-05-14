@@ -1,0 +1,16 @@
+{
+  "name": "lister",
+  "version": "1.0.0",
+  "file": "app",
+  "description": "JS Listener DEMO",
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "latest",
+    "grunt": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "scripts": {
+    "test": "test"
+  }
+}
